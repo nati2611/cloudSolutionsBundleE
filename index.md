@@ -14,3 +14,32 @@ Welcome to the cloudSolutionsBundleE wiki!
 There is <sub> subscripted text</sub> and <sup>superscript text</sup>
 
 > This is a quote
+
+```
+some code here
+some code there
+```
+
+With # there can be some colors like `#ad432c` and `#0969Da`
+
+Some links [The name I want to show] (https://tl.oamk.fi/cloudservices/)
+
+![An image with the link of the image](https://cdn.johku.com/finnaction/largefiles/738.jpg)
+
+- list with -
+- list item 2 with -
+
+* list with *
+* list item 2 with *
+
++ list with +
++ list item 2 with +
+
+- first listed
+  * second list
+      + third list
+
+- [] toDo task 1
+- [X] toDo task 2
+- [ ] \(Optional) toDo task 3
+
