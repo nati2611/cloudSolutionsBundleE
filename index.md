@@ -38,8 +38,9 @@ Some links [The name I want to show] (https://tl.oamk.fi/cloudservices/)
 - first listed
   * second list
       + third list
+        # fourth lists
 
-- [] toDo task 1
+- [ ] toDo task 1
 - [X] toDo task 2
 - [ ] \(Optional) toDo task 3
 
