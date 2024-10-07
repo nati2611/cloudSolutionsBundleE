@@ -1,4 +1,6 @@
 Welcome to the cloudSolutionsBundleE wiki!
+
+:grin:
 # The first level header
 
 ## The second level header
