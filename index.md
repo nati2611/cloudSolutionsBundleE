@@ -22,7 +22,9 @@ some code there
 
 With # there can be some colors like `#ad432c` and `#0969DA`
 
-Some links [The name I want to show] (https://tl.oamk.fi/cloudservices/)
+This site was built using [GitHub Pages] (https://pages.github.com/).
+
+
 
 ![An image with the link of the image](https://cdn.johku.com/finnaction/largefiles/738.jpg)
 
