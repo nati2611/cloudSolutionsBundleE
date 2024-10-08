@@ -22,6 +22,8 @@ There is <sub> subscripted text</sub> and <sup>superscript text</sup>
 
 > [!WARNING]
 > Some codelines are coming
+
+
 ```
 some code here
 some code there
@@ -35,6 +37,8 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 ![An image with the link of the image](https://cdn.johku.com/finnaction/largefiles/738.jpg)
 
  ## Section with lists
+
+ 
 - list with -
 - list item 2 with -
 
