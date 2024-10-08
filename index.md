@@ -20,8 +20,15 @@ There is <sub> subscripted text</sub> and <sup>superscript text</sup>
 
 > This is a quote
 
+
+
+
 > [!WARNING]
 > Some codelines are coming
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
 
 
 ```
