@@ -23,7 +23,7 @@ There is <sub> subscripted text</sub> and <sup>superscript text</sup>
 
 
 
-> [!WARNING]
+>[!WARNING]
 > Some codelines are coming
 
 > [!IMPORTANT]
