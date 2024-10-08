@@ -3,7 +3,7 @@ Welcome to the cloudSolutionsBundleE wiki!
 😁
 😊
 
-Link to the section with lists: [Link Text](section-with-lists)
+Link to the section with lists: [Link Text](#section-with-lists)
 # The first level header
 
 ## The second level header
@@ -20,6 +20,8 @@ There is <sub> subscripted text</sub> and <sup>superscript text</sup>
 
 > This is a quote
 
+> [!WARNING]
+> Some codelines are coming
 ```
 some code here
 some code there
@@ -50,10 +52,3 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 - [ ] toDo task 1
 - [X] toDo task 2
 - [ ] \(Optional) toDo task 3
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
